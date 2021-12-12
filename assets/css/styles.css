@@ -3,10 +3,11 @@ body {
     /* Here I added a linear gradient to the background of the body.*/
 
     background: linear-gradient(to left, orange , purple); 
-
+    
+    
 }
 .main-menu {
-    
+
     background: black;
     padding: 20px;
     margin: -15px;
